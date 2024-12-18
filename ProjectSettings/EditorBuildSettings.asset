@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 829ba8181558fce499bd8d8342a8a063
+  - enabled: 1
+    path: Assets/Scenes/Pong.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Ricochet1.unity
+    guid: c4d29b365f6570f4180dc26d21cca4e9
+  - enabled: 1
+    path: Assets/Scenes/Ricochet2.unity
+    guid: 308693c8a3653b840b0a61aa10a6a245
+  - enabled: 1
+    path: Assets/Scenes/Ricochet3.unity
+    guid: 75d57e84ed1aa4943a4ae10936e35ae8
+  m_configObjects: {}
